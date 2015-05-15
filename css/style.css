@@ -1,0 +1,33 @@
+.large-header {
+  position:relative;
+  width:100%;
+  background:#0cf;
+  overflow:hidden;
+  background-size:cover;
+  background-position:center center;
+  z-index:1;
+  background-image:url(../img/bill-karkavos-header.jpg)
+}
+
+.main-title {
+  position:absolute;
+  margin:0;
+  padding:0;
+  color:#fff;
+  text-align:left;
+  top:5%;
+  left:3%;
+  text-transform:uppercase;
+  font-family:"Open Sans",Tahoma,sans-serif;
+  font-weight:300;
+  letter-spacing:.1em
+}
+
+h1 {
+  font-size:1.3em;
+  font-weight:300
+}
+
+p {
+  font-size:1em
+}
